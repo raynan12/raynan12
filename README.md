@@ -1,6 +1,6 @@
 ## # 👨🏻‍💻 Raynan Linhares
 
-**Desenvolvedor FullStack**
+**Desenvolvedor Web/Mobile**
 
 Me chamo Raynan Linhares, tenho 17 anos e sou natural de Minas Gerais. Desde pequeno, sempre fui fascinado por tecnologia. Amo criar aplicativos e sites, transformando ideias em soluções digitais que podem impactar positivamente as pessoas. Meu objetivo é continuar explorando novas ferramentas e linguagens para me aperfeiçoar e trazer projetos inovadores ao mundo.
 
