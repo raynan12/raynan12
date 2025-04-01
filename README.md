@@ -2,7 +2,7 @@
 
 **Desenvolvedor Web/Mobile**
 
-Me chamo Raynan Linhares, tenho 17 anos e sou natural de Minas Gerais. Desde pequeno, sempre fui fascinado por tecnologia. Amo criar aplicativos e sites, transformando ideias em soluções digitais que podem impactar positivamente as pessoas. Meu objetivo é continuar explorando novas ferramentas e linguagens para me aperfeiçoar e trazer projetos inovadores ao mundo.
+Me chamo Raynan Linhares esou natural de Minas Gerais. Desde pequeno, sempre fui fascinado por tecnologia. Amo criar aplicativos e sites, transformando ideias em soluções digitais que podem impactar positivamente as pessoas. Meu objetivo é continuar explorando novas ferramentas e linguagens para me aperfeiçoar e trazer projetos inovadores ao mundo.
 
 ---
 
@@ -79,14 +79,6 @@ Me chamo Raynan Linhares, tenho 17 anos e sou natural de Minas Gerais. Desde peq
     width="30px" 
     style="padding-right: 10px;" 
     src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Farduino-logo-1.png&f=1&nofb=1&ipt=35b283da0d1b5ee33ba58f7dfdd269d0c3a4bc56422fb7064e8fd9f4e1899004&ipo=images" 
-/>
-<img 
-    align="left" 
-    alt="Linguagem C" 
-    title="Linguagem C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkit.com%2Fpng%2Ffull%2F101-1010012_download-png.png&f=1&nofb=1&ipt=5db3b688e3d62fc3446100dcaccc2e8c99803a3eb6b68837ff9184d61e9ac51b&ipo=images" 
 />
 
 <br/>
